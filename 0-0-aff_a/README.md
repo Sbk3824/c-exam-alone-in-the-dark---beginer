@@ -1,8 +1,8 @@
-Assignment name  : aff_a
-Expected files   : aff_a.c
-Allowed functions: write
---------------------------------------------------------------------------------
-
+Assignment name  : aff_a <br>
+Expected files   : aff_a.c <br>
+Allowed functions: write <br>
+--------------------------------------------------------------------------------<br>
+<br>
 Write a program that takes a string, and displays the first 'a' character it
 encounters in it, followed by a newline. If there are no 'a' characters in the
 string, the program just writes a newline. If the number of parameters is not
