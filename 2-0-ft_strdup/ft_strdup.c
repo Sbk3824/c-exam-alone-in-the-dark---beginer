@@ -10,6 +10,15 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+
+/*
+Psedocode:
+1. Find length of given string
+2. Allocate length memory  to new string
+3. Copy the strings
+4. Return pointer to new string
+*/
+
 #include <stdlib.h>
 
 char *ft_strdup(char *s)
